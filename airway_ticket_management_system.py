@@ -1,6 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
 import duckdb
 
 data = pd.read_csv(r'C:\Users\Ram\Desktop\greentech data\Metro old data\personal\insurance\fees 2019-20\simran\airway_system\flights.csv')
